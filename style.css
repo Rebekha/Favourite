@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    padding-top: 800px;
+    padding-top: 600px;
     background-color: lightpink;
 }
 
@@ -63,8 +63,8 @@ h2 {
 }
 
 #bio {
-
-    padding: 50px;
+    
+    padding: 20px;
     text-align: center;
     font-size: 42px;
 }
